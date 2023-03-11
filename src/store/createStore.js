@@ -16,3 +16,4 @@ export function createStore(reducer, initialState) {
     }
     return { getState, dispatch, subscribe };
 }
+// оставлено для себя!
